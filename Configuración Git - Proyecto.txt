@@ -20,3 +20,7 @@ Paso 5 Comandos Básico:
 4. git push
 
 
+Para clonar repositorio:
+
+git clone https://usuario-git-direccion-url-repositorio
+
