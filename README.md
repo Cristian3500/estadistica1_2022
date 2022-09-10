@@ -1,2 +1,29 @@
 # Proyecto de Estadica I
 # Este proyecto nos servira para poner en practica conocimientos adquiridos en el curso de estadistica I y al mismo tiempo usar tecnologicas de desarrollo de software.
+
+
+Paso 1: Instalar git y crear cuenta github
+
+Paso 2 Configuración Básica de Git
+		1. git config --global user.name "Su nombre"
+		2. git config --global user.email "suemail@gmail.com"
+
+
+Paso 3 Creación de repositorio en github.
+
+
+Paso 4 Creación de llave:
+		1. https://docs.github.com/es/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+		2. https://docs.github.com/es/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
+
+Paso 5 Comandos Básico:
+
+1. git add .
+2. git commit -m "Primer Commit"
+3. git pull
+4. git push
+
+
+Para clonar repositorio:
+
+git clone https://usuario-git-direccion-url-repositorio
